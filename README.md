@@ -8,6 +8,7 @@
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" alt="html" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
 </div><br/>
 Apaixonado por tecnologia a fim de propor inovação aprendizagem e melhorias á todos ao meu redor!
